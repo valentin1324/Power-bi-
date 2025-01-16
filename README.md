@@ -1,4 +1,6 @@
 # Power-bi-
+(Este archivo tiene clave (fechadenacimiento))
+
 DEJO RESPALDO DEL DESARROLLO DE DIFERENTES POWER BI 
 
 Bi (Lista P y Backorder)
