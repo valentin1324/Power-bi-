@@ -1,5 +1,5 @@
 # Power-bi-
-(Este archivo tiene clave (fechadenacimiento))
+(Este archivo por el peso que tienen los archivos los subi al Drive https://drive.google.com/drive/folders/1GrPpHNoZueRrzxizuiGgSQUEEE0Flczs?usp=sharing
 
 DEJO RESPALDO DEL DESARROLLO DE DIFERENTES POWER BI 
 
